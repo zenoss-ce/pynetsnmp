@@ -42,4 +42,4 @@ setup.py:
 build: setup.py build-bdist
 
 clean:
-	rm -rf *.pyc MANIFEST dist build pynetsnmp.egg-info
+	rm -rf *.pyc MANIFEST dist build pynetsnmp.egg-info setup.py
